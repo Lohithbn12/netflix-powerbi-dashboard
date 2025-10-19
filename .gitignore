@@ -1,0 +1,19 @@
+# Power BI / OS / temp
+*.pbix.tmp
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Python/R junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Data derivations
+data/processed/
+reports/figures/
